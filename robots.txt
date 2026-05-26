@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://expguru.ai/expense-guru/sitemap.xml
+Sitemap: https://expguru.ai/sitemap.xml
